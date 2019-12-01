@@ -1,0 +1,153 @@
+.hello-fresh{
+    width: 13%;
+    margin: 25px 90px;
+}
+.Discount-button{
+margin-left: 500px;
+height: 50px;
+margin-top: 15px;
+background-color: rgb(71, 107, 45);
+}
+.main-body-img{
+    
+    width: 100%;
+    height: 600px;
+}
+.second-content{
+    text-align: center;
+}
+.first-header{
+    margin: 35px auto 15px;
+    color: rgb(71, 107, 45);
+    font-weight: normal;
+}
+.first-line{
+    border-style: dotted none none;
+    border-radius: 0px;
+    border-width: 6px;
+    border-color:rgb(71, 107, 45);
+    width: 5%;
+}
+.third-line{
+    color: rgb(71, 107, 45);
+    border-style: dotted none none;
+    border-radius: 0px;
+    border-width: 6px;
+    width: 13%;
+}
+.first-paragraph{
+    font-size: 1.3rem;
+    margin-top: 1px;
+}
+#feature{
+    margin: 7% 15%;
+    background-color: #fff;
+    
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+    margin: 10px 0;
+
+}
+.first-image{
+    width: 80%;
+    margin-bottom: 20px;
+}
+.second-image{
+    width: 80%;
+    margin-bottom: 20px;
+}
+.second-paragraph{
+    width: 65%;
+    margin-left: 100px;
+    font-size: 0.9rem;
+
+}
+.third-para{
+    text-align: center !important;
+}
+.star-image{
+    width: 160px;
+}
+.second-line{
+    height: 2px;
+}
+.fourth-image{
+    width: 110%;
+;
+    
+}
+.fourth-para{
+    width: 50px;
+    font-size: 0.9rem;
+    margin: 120px auto 10px;
+}
+.last-card{
+    padding: 0% 17% 2%;
+}
+.before-card{
+    text-align: center;
+}
+.fourth-line{
+    border-style: dotted none none;
+    border-radius: 0px;
+    border-width: 6px;
+    border-color:rgb(71, 107, 45);
+    width: 5%;
+}
+.fifth-paragraph{
+    font-size: 0.9rem;
+}
+.cards-css
+{
+    padding: 30px 30px;
+    text-align: center;
+}
+.card-header{
+    font-size: 30px;
+    font-weight: bold;
+}
+.card-para{
+    font-size: 0.9rem;
+}
+.false-text{
+    color:#B23740;
+}
+#footer{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.social-icon{
+    margin: 20px 10px;
+}
+@media(max-width:783px){
+    .fourth-para{
+        margin-top: 20px;
+    }
+    .veggie-box{
+        margin: 25px 30px;
+    }
+    .fourth-para{
+        align-content: center !important;
+    }
+    .main-body-img{
+        width: 100%;
+        text-align: center !important;
+        border-radius: 100%;
+        margin-top: 40px;
+    }
+    .Discount-button{
+        float: right;
+        width: 100%;
+        margin: 0;
+        
+    }
+    .hello-fresh{
+        width: 300px;
+        margin-left: 110px;
+        padding: 20px 0px;
+        align-content: center !important;
+    }
+}
