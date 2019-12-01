@@ -146,8 +146,16 @@ background-color: rgb(71, 107, 45);
     }
     .hello-fresh{
         width: 300px;
-        margin-left: 110px;
+        margin-left: 80px;
         padding: 20px 0px;
         align-content: center !important;
+    }
+    .second-paragraph{
+        margin-right: 30px;
+        padding-right: 40px;
+        
+    }
+    .center-image{
+        padding-right: 80px;
     }
 }
